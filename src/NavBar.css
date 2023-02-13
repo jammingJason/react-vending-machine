@@ -1,0 +1,14 @@
+.nav{
+    padding:.5rem;
+    background-color: rgb(233, 160, 16);
+}
+.nav a{
+    margin: 20px;
+    color: white;
+    
+}
+
+.nav a.active{
+    color:rgb(233, 160, 16);
+    background-color: white;
+}
